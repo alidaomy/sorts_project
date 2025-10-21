@@ -1,0 +1,6 @@
+﻿  SHELL_SORT.cpp
+C:\Users\1\Desktop\sortir\SHELL_SORT\SHELL_SORT\SHELL_SORT.cpp(99,5): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\1\Desktop\sortir\SHELL_SORT\SHELL_SORT\SHELL_SORT.cpp(100,10): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\1\Desktop\sortir\SHELL_SORT\SHELL_SORT\SHELL_SORT.cpp(101,10): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\1\Desktop\sortir\SHELL_SORT\SHELL_SORT\SHELL_SORT.cpp(102,10): warning C4984: "if constexpr" — расширение языка C++17
+  SHELL_SORT.vcxproj -> C:\Users\1\Desktop\sortir\SHELL_SORT\x64\Debug\SHELL_SORT.exe
