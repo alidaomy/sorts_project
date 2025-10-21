@@ -1,0 +1,8 @@
+﻿  MergeSort_Kaneva.cpp
+D:\Алгоритмические языки\MergeSort_Kaneva\MergeSort_Kaneva\MergeSort_Kaneva.cpp(471,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Алгоритмические языки\MergeSort_Kaneva\MergeSort_Kaneva\MergeSort_Kaneva.cpp(491,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Алгоритмические языки\MergeSort_Kaneva\MergeSort_Kaneva\MergeSort_Kaneva.cpp(501,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Алгоритмические языки\MergeSort_Kaneva\MergeSort_Kaneva\MergeSort_Kaneva.cpp(509,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Алгоритмические языки\MergeSort_Kaneva\MergeSort_Kaneva\MergeSort_Kaneva.cpp(517,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Алгоритмические языки\MergeSort_Kaneva\MergeSort_Kaneva\MergeSort_Kaneva.cpp(523,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  MergeSort_Kaneva.vcxproj -> D:\Алгоритмические языки\MergeSort_Kaneva\x64\Debug\MergeSort_Kaneva.exe
