@@ -1,0 +1,9 @@
+﻿  Kulikova_vstavki.cpp
+C:\Users\lizza\Desktop\Kulikova_vstavki\Kulikova_vstavki\Kulikova_vstavki.cpp(34,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\lizza\Desktop\Kulikova_vstavki\Kulikova_vstavki\Kulikova_vstavki.cpp(59,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+      C:\Users\lizza\Desktop\Kulikova_vstavki\Kulikova_vstavki\Kulikova_vstavki.cpp(59,15):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\lizza\Desktop\Kulikova_vstavki\Kulikova_vstavki\Kulikova_vstavki.cpp(174,22):
+          выполняется компиляция ссылки на экземпляр шаблон функции "SortResult insertionSortNumbers<double>(std::vector<double,std::allocator<double>> &)"
+  
+  Kulikova_vstavki.vcxproj -> C:\Users\lizza\Desktop\Kulikova_vstavki\x64\Debug\Kulikova_vstavki.exe
