@@ -1,0 +1,9 @@
+﻿  sort.cpp
+C:\Users\Vlada\Videos\326\sort\sort\sort.cpp(60,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Vlada\Videos\326\sort\sort\sort.cpp(105,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+      C:\Users\Vlada\Videos\326\sort\sort\sort.cpp(105,45):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Vlada\Videos\326\sort\sort\sort.cpp(212,22):
+          выполняется компиляция ссылки на экземпляр шаблон функции "SortResult quickSortNumbersWrapper<double>(std::vector<double,std::allocator<double>> &)"
+  
+  sort.vcxproj -> C:\Users\Vlada\Videos\326\sort\x64\Debug\sort.exe
